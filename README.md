@@ -26,6 +26,7 @@
 ## Framework Libraries
 
 - [@mcp-b/react-webmcp](https://www.npmjs.com/package/@mcp-b/react-webmcp) - React hooks (`useWebMCP`, `useMcpTool`) for registering and invoking WebMCP tools.
+- [@stevysmith/agentk](https://github.com/stevysmith/agentk) - Command palette (cmdk fork) where JSON Schema tool defs become human-facing forms and WebMCP registrations; handles the `document.modelContext` rename and AbortSignal unregistration. Runs in production at [stacktr.ee](https://stacktr.ee).
 
 ## Browser Extensions
 
