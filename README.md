@@ -55,6 +55,7 @@
 ## Platforms
 
 - [webmcp-platform](https://www.npmjs.com/package/webmcp-platform) - Unified WebMCP platform integrating polyfill, payments, and SDK into a single import. One-line setup for making websites agent-friendly with built-in monetization via x402.
+- [WebMCP Today](https://webmcp.today/) - Open-source package registry for discovering site-specific WebMCP packages and installing them with per-site install commands; [source code](https://github.com/robertn702/webmcp-today).
 
 ## Demo Applications
 
