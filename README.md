@@ -27,6 +27,10 @@
 
 - [@mcp-b/react-webmcp](https://www.npmjs.com/package/@mcp-b/react-webmcp) - React hooks (`useWebMCP`, `useMcpTool`) for registering and invoking WebMCP tools.
 
+## Developer Tools
+
+- [WebMCP Kit](https://github.com/nekuda-ai/webmcp-kit) - Plugin for coding agents that uses a visual Explorer to review and approve proposed WebMCP tools before implementing and verifying them in a browser.
+
 ## Browser Extensions
 
 - [igrigorik/AgentBoard](https://github.com/igrigorik/AgentBoard) - AI switchboard extension by [@igrigorik](https://github.com/igrigorik) with multi-provider LLM sidebar (OpenAI, Anthropic, Google, Ollama), scriptable WebMCP tools running in page context, remote MCP server support, and command templates.
