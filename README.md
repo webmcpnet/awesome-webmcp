@@ -84,6 +84,10 @@
 
 - [AI Agent Readiness Scanner](https://scanner.v1be.codes) ([source](https://github.com/ckorhonen/ai-agent-scanner)) - Free tool to score any website's AI agent readiness across 6 categories: WebMCP support, semantic HTML, structured data, llms.txt, crawlability, and content quality. Returns a grade (A–F), a 5-level readiness label (Invisible → AI-Native), per-check fix instructions with code examples, and supports side-by-side competitor comparison.
 
+## Benchmarks
+
+- [WindTunnel](https://github.com/nekuda-ai/WindTunnel) - Open-source benchmark comparing WebMCP with other browser-agent interfaces across task success, execution time, token usage, and cost.
+
 ## Reference
 
 Deep-dive material lives in [docs/](docs/): [Specification](docs/specification.md) | [API reference](docs/api-reference.md) | [Security](docs/security.md) | [Articles & talks](docs/reading.md) | [Community](docs/community.md) | [Key people](docs/key-people.md)
