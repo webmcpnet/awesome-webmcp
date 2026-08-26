@@ -56,6 +56,10 @@
 
 - [webmcp-platform](https://www.npmjs.com/package/webmcp-platform) - Unified WebMCP platform integrating polyfill, payments, and SDK into a single import. One-line setup for making websites agent-friendly with built-in monetization via x402.
 
+## Production Websites
+
+- [BestPrice.gr](https://www.bestprice.gr/mcp#webmcp) - Greek price-comparison site registering `navigator.modelContext` tools on its live search, category, and product pages for product discovery, offer comparison, specifications, and price history.
+
 ## Demo Applications
 
 - [Travel Demo](https://travel-demo.bandarra.me/) - Official Chrome team demo using `searchFlights` tool via [imperative API](https://webmachinelearning.github.io/webmcp). Part of the Chrome Early Preview docs.
