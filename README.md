@@ -50,6 +50,7 @@
 
 ## Payment
 
+- [scvd.store](https://scvd.store) - Live x402 general store for AI agents with a parallel WebMCP surface: four read-only tools (read_store_guide, preflight_endpoint, check_conformance, verify_artifact) registered via navigator.modelContext alongside the store's own funded x402 payment flow.
 - [webmcp-payments](https://www.npmjs.com/package/webmcp-payments) - x402 payment acceptance middleware for WebMCP tools. Enables websites to charge AI agents per tool invocation using the HTTP 402 payment protocol with inline pricing metadata.
 
 ## Platforms
